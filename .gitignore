@@ -1,2 +1,6 @@
 .history
 bin-debug/
+.actionScriptProperties
+.flexProperties
+.project
+.settings/
