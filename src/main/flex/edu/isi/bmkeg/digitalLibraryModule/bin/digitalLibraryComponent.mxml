@@ -12,6 +12,15 @@
 		<bin:digitalLibraryComponentContext contextView="{this}" />
 	</fx:Declarations>
 	
+	<fx:Script>
+		<![CDATA[
+			import edu.isi.bmkeg.digitalLibrary.model.citations.ArticleCitation;
+			
+			public var currentArticleCitation:ArticleCitation;
+			
+		]]>
+	</fx:Script>
+	
 	<digitalLibrary:DigitalLibraryModule label="Digital Library" id="digLib" height="100%" width="100%"/>
 	
 </s:Application>
