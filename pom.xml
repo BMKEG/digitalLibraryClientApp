@@ -38,7 +38,7 @@
 				<artifactId>flexmojos-maven-plugin</artifactId>
 				<extensions>true</extensions>
 				<configuration>
-					<sourceFile>edu/isi/bmkeg/digitalLibraryModule/bin/digitalLibraryComponent.mxml</sourceFile>
+					<sourceFile>edu/isi/bmkeg/digitalLibraryModule/bin/digitalLibraryClientApp.mxml</sourceFile>
 					<swfVersion>11</swfVersion>
 					<compilerWarnings>
 						<warn-no-constructor>false</warn-no-constructor>
