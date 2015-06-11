@@ -1,4 +1,4 @@
-sciKnowLabSystem
-==============
+Digital Library
+===============
 
-Full client application for the Knowledge Engineering from Experimental Design system.
+Full client application for the Digital Library.
